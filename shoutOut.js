@@ -1,1 +1,1 @@
-console.log(`"Please collaborate with me and reply. Here's my WhatsApp: [number]. I'll be waiting for your message. - Netocodes"`)
+console.log(`"Please collaborate with me and reply. Here's my WhatsApp: [+234 9134730499]. I'll be waiting for your message. - Netocodes"`)
